@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Kamp", "Kamp\Kamp.csproj", "{942E03F3-6BBC-4E00-87D5-AE2EF13E95BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassMetotDemo", "ClassMetotDemo\ClassMetotDemo.csproj", "{FCB9228E-AB56-4842-8499-94EB1C7457A6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{942E03F3-6BBC-4E00-87D5-AE2EF13E95BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{942E03F3-6BBC-4E00-87D5-AE2EF13E95BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{942E03F3-6BBC-4E00-87D5-AE2EF13E95BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{942E03F3-6BBC-4E00-87D5-AE2EF13E95BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FCB9228E-AB56-4842-8499-94EB1C7457A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCB9228E-AB56-4842-8499-94EB1C7457A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCB9228E-AB56-4842-8499-94EB1C7457A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCB9228E-AB56-4842-8499-94EB1C7457A6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {583364D0-0875-4904-83AB-D0D176C9EDD4}
+	EndGlobalSection
+EndGlobal
